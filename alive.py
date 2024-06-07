@@ -1,8 +1,4 @@
-"""
-File: read_ghcn.py
-Author: ned haughton
-Description: Code for reading GHCN dly file data
-"""
+
 
 import pandas as pd
 
